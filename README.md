@@ -294,5 +294,5 @@ flake8 src/
 </p>
 
 <p align="center">
-  Made with Python | <a href="wilsons-algorithm-maze-generator">Back to Top ↑</a>
+  Made with Python | <a href="#wilsons-algorithm-maze-generator">Back to Top ↑</a>
 </p>
