@@ -7,8 +7,9 @@
 
 > A production-quality, real-time visualization of Wilson's Algorithm for perfect maze generation, built with Python and Pygame.
 
-![Demo](assets/demo.gif)
-
+<p align="center">
+  <img src="assets/demo.gif" alt="Demo">
+</p>
 ---
 
 ## Table of Contents
