@@ -13,3 +13,9 @@ class Colors:
     CURRENT_CELL = (255, 100, 100)
     TEXT = (200, 200, 210)
     TEXT_BG = (20, 20, 30)
+
+# Maze generation settings
+MIN_MAZE_SIZE = 5
+MAX_MAZE_SIZE = 50
+DEFAULT_GENERATION_SPEED = 1
+MAX_GENERATION_SPEED = 10
